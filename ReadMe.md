@@ -21,7 +21,7 @@
 
 | Anleitung          | Datei(en) |
 | ------------------ | --------- |
-| Kontrollstrukturen | (https://github.com/volker-richardt/Python-2024/blob/main/pdf/Datenstrukturen.pdf)          |
+| Kontrollstrukturen | https://github.com/volker-richardt/Python-2024/blob/main/pdf/Datenstrukturen.pdf        |
 |                    |           |
 |                    |           |
 |                    |           |
