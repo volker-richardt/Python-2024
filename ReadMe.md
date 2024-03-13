@@ -11,7 +11,7 @@
 
 | Anleitung                                                                                                    | Datei(en) |
 | ------------------------------------------------------------------------------------------------------------ | --------- |
-| [Print und Variablen]																			         			 |           |
+| Print und Variablen																			         			 |           |
 | Input und Datentypen                                                                                         |           |
 | Datenstrukturen                                                                                              |           |
 |                                                                                                              |           |
