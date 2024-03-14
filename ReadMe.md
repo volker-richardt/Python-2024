@@ -26,10 +26,7 @@
       <td>Datenstrukturen</td>
       <td></td>
     </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
+   
     <tr>
       <td>Formatierte Strings</td>
     </tr>
@@ -53,17 +50,7 @@
         >
       </td>
     </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-    </tr>
+   
   </tbody>
 </table>
 <h3 id="funktionen">Funktionen</h3>
