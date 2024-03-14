@@ -26,9 +26,9 @@
       <td>Datenstrukturen</td>
       <td></td>
     </tr>
-   
     <tr>
       <td>Formatierte Strings</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
