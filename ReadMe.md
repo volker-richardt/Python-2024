@@ -6,7 +6,7 @@
     <h1 id="python">Python</h1>
     <h2 id="inhalt">Inhalt</h2>
     <h3 id="installationen">Installationen</h3>
-    <table>
+    <table width=100% border=2>
       <tbody>
         <tr>
           <td>Anleitung</td>
