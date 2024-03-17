@@ -7,11 +7,13 @@
     <h2 id="inhalt">Inhalt</h2>
     <h3 id="installationen">Installationen</h3>
     <table  border="2">
-      <tbody>
+      <thead>
         <tr>
-          <td>Anleitung</td>
-          <td>Datei(en)</td>
+          <th>Anleitung</th>
+          <th>Datei(en)</th>
         </tr>
+      </thead>
+      <tbody>
         <tr>
           <td>Python</td>
           <td><br>
