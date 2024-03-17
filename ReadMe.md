@@ -6,7 +6,7 @@
     <h1 id="python">Python</h1>
     <h2 id="inhalt">Inhalt</h2>
     <h3 id="installationen">Installationen</h3>
-    <table width="100%" border="1">
+    <table>
       <tbody>
         <tr>
           <td>Anleitung</td>
@@ -24,12 +24,7 @@
         </tr>
       </tbody>
     </table>
-    <p><br>
-    </p>
-    <ul>
-    </ul>
     <h3 id="variablen-und-datentypen">Variablen und Datentypen</h3>
-    
     <table>
       <thead>
         <tr>
