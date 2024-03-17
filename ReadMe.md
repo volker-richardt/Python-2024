@@ -25,7 +25,7 @@
       </tbody>
     </table>
     <h3 id="variablen-und-datentypen">Variablen und Datentypen</h3>
-    <table>
+    <table border="2">
       <thead>
         <tr>
           <th>Anleitung</th>
@@ -56,7 +56,7 @@
       </tbody>
     </table>
     <h3 id="kontrollstrukturen">Kontrollstrukturen</h3>
-    <table>
+    <table border="2">
       <thead>
         <tr>
           <th>Anleitung</th>
