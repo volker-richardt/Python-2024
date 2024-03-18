@@ -47,7 +47,7 @@
         </tr>
         <tr>
           <td>Datenstrukturen</td>
-          <td><br>
+          <td><a href="https://github.com/volker-richardt/Python-2024/blob/main/pdf/Datenstrukturen.pdf">https://github.com/volker-richardt/Python-2024/blob/main/pdf/Datenstrukturen.pdf</a>
           </td>
         </tr>
         <tr>
