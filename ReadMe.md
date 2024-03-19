@@ -16,7 +16,7 @@
       <tbody>
         <tr>
           <td>Python</td>
-          <td><br>
+          <td><a href="https://github.com/volker-richardt/Python-2024/blob/main/pdf/Installation%20Python.pdf">https://github.com/volker-richardt/Python-2024/blob/main/pdf/Installation%20Python.pdf</a>
           </td>
         </tr>
         <tr>
